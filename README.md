@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  My name is **Daniel**. I am in my 4th year, Bachelor of General Science, majoring in computer science and biology minor. 
+  My name is **Daniel**. I am in my 4th year, Bachelor of General Science, majoring in computer science and biology minor.\n
 I'm currently working on automating mouse and keyboard input by utilizing multithreading to perform tasks whether in gaming or everyday tasks.
 I'm most interested and currently learning front-end development skills in Android studio, flutter, html/css. 
 <!--
