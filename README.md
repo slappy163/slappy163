@@ -1,8 +1,10 @@
 ### Hi there 👋
 
   My name is **Daniel**. I am in my 4th year, Bachelor of General Science, majoring in computer science and biology minor.
-I'm currently working on automating mouse and keyboard input by utilizing multithreading to perform tasks whether in gaming or everyday tasks.
+I'm currently working on automating mouse and keyboard input by utilizing multithreading to perform tasks whether in gaming or everyday tasks. In addition, a fitness app.
 I'm most interested and currently learning front-end development skills in Android studio, flutter, html/css. 
+Fun Fact: I really enjoy working out and climbing.
+Contacts: discord: tinhtinh
 <!--
 **slappy163/slappy163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
